@@ -1,0 +1,25 @@
+C:\Users\hasan\source\repos\WPF Research Practise\WPF Research Practise\bin\Debug\net6.0-windows\WPF Research Practise.exe
+C:\Users\hasan\source\repos\WPF Research Practise\WPF Research Practise\bin\Debug\net6.0-windows\WPF Research Practise.deps.json
+C:\Users\hasan\source\repos\WPF Research Practise\WPF Research Practise\bin\Debug\net6.0-windows\WPF Research Practise.runtimeconfig.json
+C:\Users\hasan\source\repos\WPF Research Practise\WPF Research Practise\bin\Debug\net6.0-windows\WPF Research Practise.dll
+C:\Users\hasan\source\repos\WPF Research Practise\WPF Research Practise\bin\Debug\net6.0-windows\WPF Research Practise.pdb
+C:\Users\hasan\source\repos\WPF Research Practise\WPF Research Practise\obj\Debug\net6.0-windows\WPF Research Practise.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\WPF Research Practise\WPF Research Practise\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\hasan\source\repos\WPF Research Practise\WPF Research Practise\obj\Debug\net6.0-windows\Views\AddImageView.g.cs
+C:\Users\hasan\source\repos\WPF Research Practise\WPF Research Practise\obj\Debug\net6.0-windows\Views\GaleryPageView.g.cs
+C:\Users\hasan\source\repos\WPF Research Practise\WPF Research Practise\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\hasan\source\repos\WPF Research Practise\WPF Research Practise\obj\Debug\net6.0-windows\WPF Research Practise_MarkupCompile.cache
+C:\Users\hasan\source\repos\WPF Research Practise\WPF Research Practise\obj\Debug\net6.0-windows\WPF Research Practise_MarkupCompile.lref
+C:\Users\hasan\source\repos\WPF Research Practise\WPF Research Practise\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\hasan\source\repos\WPF Research Practise\WPF Research Practise\obj\Debug\net6.0-windows\Views\AddImageView.baml
+C:\Users\hasan\source\repos\WPF Research Practise\WPF Research Practise\obj\Debug\net6.0-windows\Views\GaleryPageView.baml
+C:\Users\hasan\source\repos\WPF Research Practise\WPF Research Practise\obj\Debug\net6.0-windows\WPF Research Practise.g.resources
+C:\Users\hasan\source\repos\WPF Research Practise\WPF Research Practise\obj\Debug\net6.0-windows\WPF Research Practise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\WPF Research Practise\WPF Research Practise\obj\Debug\net6.0-windows\WPF Research Practise.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\WPF Research Practise\WPF Research Practise\obj\Debug\net6.0-windows\WPF Research Practise.AssemblyInfo.cs
+C:\Users\hasan\source\repos\WPF Research Practise\WPF Research Practise\obj\Debug\net6.0-windows\WPF Research Practise.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\WPF Research Practise\WPF Research Practise\obj\Debug\net6.0-windows\WPF Research Practise.dll
+C:\Users\hasan\source\repos\WPF Research Practise\WPF Research Practise\obj\Debug\net6.0-windows\refint\WPF Research Practise.dll
+C:\Users\hasan\source\repos\WPF Research Practise\WPF Research Practise\obj\Debug\net6.0-windows\WPF Research Practise.pdb
+C:\Users\hasan\source\repos\WPF Research Practise\WPF Research Practise\obj\Debug\net6.0-windows\WPF Research Practise.genruntimeconfig.cache
+C:\Users\hasan\source\repos\WPF Research Practise\WPF Research Practise\obj\Debug\net6.0-windows\ref\WPF Research Practise.dll
